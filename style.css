@@ -1,0 +1,256 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffbf00;
+    
+}
+
+.header {
+    float: left;
+    width: 100%;
+    background-color: #ffbf00;
+}
+
+.header-top {
+    float: left;
+    width: 100%;
+    background-color: #ffbf00;
+
+}
+
+.header-top-left {
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+.header-top-left h2 {
+    font-size: 25px;
+    font-weight: 500;
+    color: black;
+}
+
+.header-top-right {
+    float: right;
+    width: 40%;
+    text-align: center;
+}
+
+.nav-menu {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.nav-menu li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.nav-menu li a {
+    font-size: 25px;
+    color: rgb(17, 16, 16);
+    font-weight: 400;
+    text-transform: capitalize ;
+    text-decoration: none;
+    margin: 10px 5px 0px 5px;
+    padding: 5px 5px;
+}
+
+.nav-menu a:hover {
+    background-color: white;
+    color: black;
+}
+
+.header-bottom {
+    float: right;
+    width: 100%;
+    text-align: center;
+
+}
+
+.header-image {
+    width: 30%;
+    text-align: center;
+
+}
+
+.active a {
+    background-color: white;
+}
+
+.main{
+    float: left;
+    background-color: white;
+    width: 100%;
+}
+
+.main-top {
+    float: left;
+    background-color: white;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    padding-right: 10px;   
+}
+
+.main-bottom{
+    float: left;
+    background-color: white;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 35px;
+    padding-left: 35px;
+    padding-right: 10px;
+}
+
+.one {
+    float: left;
+    width: 30%;
+    text-align: center;
+
+}
+
+.two {
+    float: left;
+    width: 39%;
+    text-align: center;
+
+}
+
+.three {
+    float: right;
+    width: 30%;
+    text-align: center;
+
+}
+
+
+.four {
+    float: left;
+    width: 35%;
+    text-align: center;
+
+
+}
+
+.five {
+    float: right;
+    width: 43%;
+    text-align: center;
+}
+
+
+.main-bottom1 {
+    float: left;
+    width: 100%;
+    background-color:#02041b;
+    color: white;
+    
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-left: 35px;
+    padding-right: 10px;
+    
+    
+}
+
+.six {
+    float: left;
+    width: 33%;
+    text-align: center;
+    font-size: small;
+    font-display: white;
+    
+}
+
+.seven {
+    float: left;
+    width: 33%;
+    text-align: center;
+    font-size: small;
+    
+}
+
+.eight {
+    float: left;
+    width: 33%;
+    text-align: center;
+    font-size: small;
+    
+    
+}
+
+.button1 {
+    background-color: #02041b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button2 {
+    background-color: #02041b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button3 {
+    background-color: #02041b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+.button4 {
+    background-color: #02041b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button5 {
+    background-color:#02041b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.footer p{
+   width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.footer{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+.nine p{
+    margin-top: 25px;
+    margin-bottom: 75px;
+}
